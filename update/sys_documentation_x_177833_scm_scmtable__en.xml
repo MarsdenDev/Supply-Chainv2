@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="SCMTable" language="en" table="x_177833_scm_scmtable">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>SCMTable</label>
+            <language>en</language>
+            <name>x_177833_scm_scmtable</name>
+            <plural>SCMTables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-30 16:53:35</sys_created_on>
+            <sys_id>38570564db401300e51e72ffbf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>SCMTable</sys_name>
+            <sys_package display_value="Supply Chain Management" source="x_177833_scm">35d4c960db401300e51e72ffbf9619a1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Supply Chain Management">35d4c960db401300e51e72ffbf9619a1</sys_scope>
+            <sys_update_name>sys_documentation_x_177833_scm_scmtable__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-30 16:53:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
