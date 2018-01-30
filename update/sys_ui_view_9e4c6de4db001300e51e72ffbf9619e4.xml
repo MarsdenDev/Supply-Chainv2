@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>SCM_Admin_View</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-30 19:35:04</sys_created_on>
+        <sys_id>9e4c6de4db001300e51e72ffbf9619e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SCM Admin View</sys_name>
+        <sys_package display_value="Supply Chain Management" source="x_177833_scm">35d4c960db401300e51e72ffbf9619a1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">35d4c960db401300e51e72ffbf9619a1</sys_scope>
+        <sys_update_name>sys_ui_view_9e4c6de4db001300e51e72ffbf9619e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-30 19:35:04</sys_updated_on>
+        <title>SCM Admin View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

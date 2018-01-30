@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Supply Chain Management">5036c0d7db330300e51e72ffbf9619b3</application>
+        <application display_value="">5036c0d7db330300e51e72ffbf9619b3</application>
         <filter/>
         <name>SCMTables</name>
         <order/>
